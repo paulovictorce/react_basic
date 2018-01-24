@@ -9,7 +9,7 @@ import HelloWorld from './HelloWorld'
 // registerServiceWorker();
 
 ReactDOM.render(
-    <HelloWorld/>,
+    <HelloWorld txt='Hello World'/>,
     document.getElementById('root')
 
 )
